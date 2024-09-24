@@ -1,0 +1,19 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "activity monitoring",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "restu indera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
